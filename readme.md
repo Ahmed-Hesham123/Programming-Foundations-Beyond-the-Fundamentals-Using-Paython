@@ -12,7 +12,7 @@
 
 Thanks for checking out this Programming Foundations Beyond the Fundamentals Course content.
 
-**To complete this challenge, I studied for a long time and it was a very interesting trip and I learned a lot from Eng.Sasha Vodnik and I wish for her a great success and special thanks to those in charge of the Al-Bunyan Al-Marsous competition, especially Engineer Ahmed Fathi, for their efforts, and I wish for them a great success.**
+**To complete this challenge, I studied for a long time and it was a very interesting trip and I learned a lot from Eng.Sasha Vodnik and I wish for him a great success and special thanks to those in charge of the Al-Bunyan Al-Marsous competition, especially Engineer Ahmed Fathi, for their efforts, and I wish for them a great success.**
 
 ### Course Link
 
